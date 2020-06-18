@@ -1,2 +1,10 @@
+const num1 = parseInt(2);
+const num2 = parseInt(31);
 
-// Write your code here
+const multiply = (num1 * num2)
+
+const random = (Math.random() * 1) + 1;
+
+const mod = 16 % 6
+
+const max = Math.max(1, 2, 3, 4, 5, 20)
